@@ -1,0 +1,8 @@
+#codigo feite ate aula 03 o dia 08\09-mapa.txt
+
+5 10
+|--------|
+|FFF|....|
+|FF-|.@..|
+|..F.....|
+|--------|
